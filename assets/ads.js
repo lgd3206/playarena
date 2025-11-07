@@ -1,7 +1,7 @@
 (function(){
   var META = document.querySelector('meta[name="ads-client"]');
   var CLIENT = (window.ADSENSE_CLIENT || (META && META.content) || '').trim();
-  var DEFAULT_CLIENT = 'ca-pub-0000000000000000';
+  var DEFAULT_CLIENT = 'ca-pub-4776426875987574';
   if(!CLIENT){ CLIENT = DEFAULT_CLIENT; }
   var DEFAULT_SLOTS = { top:'1234567001', middle:'1234567002', bottom:'1234567003' };
   var loaded=false; function load(cb){ if(loaded){ cb&&cb(); return; }
@@ -28,3 +28,4 @@
   }
   document.addEventListener('DOMContentLoaded', observe);
 })();
+
