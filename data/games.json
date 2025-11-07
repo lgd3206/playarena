@@ -1,0 +1,581 @@
+{
+  "generatedAt": "2025-11-07T15:49:06Z",
+  "games": [
+    {
+      "slug": "smash-karts",
+      "name": "Smash Karts",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "mobile",
+        "3d",
+        "top-down",
+        "battle",
+        "arena",
+        "destroy",
+        "car",
+        "physics"
+      ]
+    },
+    {
+      "slug": "fortzone-battle-royale-xkd",
+      "name": "Fortzone Battle Royale",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "action",
+      "tags": [
+        "mobile",
+        "3d",
+        "battle",
+        "arena",
+        "destroy",
+        "third-person-shooter",
+        "with-friends",
+        "battle-royale"
+      ]
+    },
+    {
+      "slug": "diepio",
+      "name": "Diep.io",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "avoid",
+        "battle",
+        "controller",
+        "2d",
+        "survive",
+        "battle-royale",
+        "tank",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "gridpunk---3v3-battle-royale",
+      "name": "Gridpunk - 3v3 Battle Royale",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "3d",
+        "battle",
+        "arena",
+        "play-and-upgrade",
+        "hero",
+        "gun",
+        "party",
+        "premium"
+      ]
+    },
+    {
+      "slug": "rocket-bot-royale",
+      "name": "Rocket Bot Royale",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "battle",
+        "destroy",
+        "2d",
+        "survive",
+        "premium",
+        "battle-royale",
+        "tank",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "mad-guns---battle-royale-ndd",
+      "name": "Mad GunS - Battle Royale",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "shooting",
+      "tags": [
+        "pixel",
+        "3d",
+        "battle",
+        "with-friends",
+        "gun",
+        "battle-royale",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "voxiom-io",
+      "name": "Voxiom.io",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "minecraft",
+        "3d",
+        "mining",
+        "gun",
+        "battle-royale",
+        "multiplayer",
+        "crafting",
+        "block"
+      ]
+    },
+    {
+      "slug": "warcall-io",
+      "name": "WarCall.io",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "battle",
+        "battle-royale",
+        "mouse",
+        "collect"
+      ]
+    },
+    {
+      "slug": "sandstrike-io",
+      "name": "SandStrike.io",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "3d",
+        "battle",
+        "zombie",
+        "war",
+        "party",
+        "battle-royale",
+        "multiplayer",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "holey-io-battle-royale",
+      "name": "Holey.io Battle Royale",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "grow",
+        "top-down",
+        "arena",
+        "battle-royale",
+        "mouse"
+      ]
+    },
+    {
+      "slug": "thelast-io",
+      "name": "TheLast.io",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "battle",
+        "magic",
+        "2d",
+        "battle-royale",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "fall-beans",
+      "name": "Fall Beans",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "casual",
+      "tags": [
+        "3d",
+        "arena",
+        "racing",
+        "platform",
+        "lol",
+        "obstacle",
+        "battle-royale",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "gokarts-io",
+      "name": "GoKarts.io",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "driving",
+      "tags": [
+        "mobile",
+        "3d",
+        "battle",
+        "arena",
+        "car",
+        "with-friends",
+        "drifting",
+        "bike"
+      ]
+    },
+    {
+      "slug": "2048-multiplayer-qbs",
+      "name": "2048 Multiplayer",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "puzzle",
+      "tags": [
+        "2048",
+        "skill",
+        "battle-royale",
+        "multiplayer",
+        "speed"
+      ]
+    },
+    {
+      "slug": "evowarsio",
+      "name": "EvoWars.io",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "grow",
+        "mobile",
+        "top-down",
+        "battle",
+        "climb-the-ranks",
+        "party",
+        "mouse",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "shellshockersio",
+      "name": "Shell Shockers",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "3d",
+        "controller",
+        "with-friends",
+        "gun",
+        "party",
+        "multiplayer",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "paper-io-2",
+      "name": "Paper.io 2",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "avoid",
+        "arena",
+        "snake",
+        "color"
+      ]
+    },
+    {
+      "slug": "kour-io",
+      "name": "Kour.io",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "sniper",
+        "mobile",
+        "3d",
+        "battle",
+        "arena",
+        "controller",
+        "gun",
+        "party"
+      ]
+    },
+    {
+      "slug": "starblastio",
+      "name": "StarBlast",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "battle",
+        "arena",
+        "space",
+        "multiplayer",
+        "airplane"
+      ]
+    },
+    {
+      "slug": "snake-io",
+      "name": "Snake.io",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "grow",
+        "top-down",
+        "arena",
+        "snake",
+        "controller",
+        "survive",
+        "mouse",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "ragdoll-archers",
+      "name": "Ragdoll Archers",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "casual",
+      "tags": [
+        "2-player",
+        "arena",
+        "physics",
+        "co-op",
+        "stick",
+        "archery",
+        "ragdoll",
+        "arcade"
+      ]
+    },
+    {
+      "slug": "basket-random",
+      "name": "Basket Random",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "2-player",
+        "physics",
+        "basketball",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "punchers",
+      "name": "Punchers",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "sports",
+      "tags": [
+        "mobile",
+        "2-player",
+        "3d",
+        "1-player",
+        "physics",
+        "boxing",
+        "premium",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "epic-sword-battle-fight-in-arena",
+      "name": "Epic Sword Battle! Fight in Arena",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "action",
+      "tags": [
+        "mobile",
+        "3d",
+        "arena",
+        "skill",
+        "ragdoll",
+        "sword"
+      ]
+    },
+    {
+      "slug": "soccer-random",
+      "name": "Soccer Random",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "2-player",
+        "soccer",
+        "physics",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "volley-random",
+      "name": "Volley Random",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "one-button",
+        "2-player",
+        "physics",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "no-pain-no-gain---ragdoll-sandbox",
+      "name": "No Pain No Gain - Ragdoll Sandbox",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "casual",
+      "tags": [
+        "sandbox",
+        "mobile",
+        "physics",
+        "incremental",
+        "mouse",
+        "stick",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "uncle-hit-punch-the-dummy",
+      "name": "Uncle Hit: Punch the Dummy",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "casual",
+      "tags": [
+        "mobile",
+        "meme",
+        "3d",
+        "physics",
+        "mouse",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "striker-dummies",
+      "name": "Striker Dummies",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "action",
+      "tags": [
+        "2-player",
+        "3d",
+        "physics",
+        "premium",
+        "ragdoll",
+        "fighting"
+      ]
+    },
+    {
+      "slug": "weapons-ragdoll-arena",
+      "name": "Weapons Ragdoll Arena",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "action",
+      "tags": [
+        "mobile",
+        "battle",
+        "mouse",
+        "stick",
+        "ragdoll",
+        "arcade",
+        "fighting"
+      ]
+    },
+    {
+      "slug": "boxing-random",
+      "name": "Boxing Random",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "2-player",
+        "physics",
+        "boxing",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "drunken-duel-2",
+      "name": "Drunken Duel 2",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "shooting",
+      "tags": [
+        "2-player",
+        "battle",
+        "physics",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "ragdoll-soccer-2-players",
+      "name": "Ragdoll Soccer 2 Players",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "sports",
+      "tags": [
+        "mobile",
+        "2-player",
+        "soccer",
+        "controller",
+        "2d",
+        "stick",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "ragdoll-break",
+      "name": "Playground Man! Ragdoll Show!",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "casual",
+      "tags": [
+        "mobile",
+        "3d",
+        "destroy",
+        "physics",
+        "mouse",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "last-play-ragdoll-sandbox-kqb",
+      "name": "Last Play: Ragdoll Sandbox",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "action",
+      "tags": [
+        "sandbox",
+        "mobile",
+        "battle",
+        "arena",
+        "physics",
+        "ragdoll",
+        "robot"
+      ]
+    }
+  ]
+}

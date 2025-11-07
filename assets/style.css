@@ -27,3 +27,6 @@ nav a:hover{border-color:var(--accent)}
 /* Home search and buttons */
 .search{margin:12px 0 6px} .search input{width:100%;padding:10px 12px;border:1px solid #2a3351;border-radius:10px;background:#0c1020;color:#dbe4ff} .search small.muted{display:block;color:#93a0b0;margin-top:6px} .btn{display:inline-block;padding:8px 12px;border:1px solid #2a3351;border-radius:10px;color:#cfe0ff;text-decoration:none;background:#141a2b} .btn:hover{border-color:#7c5cff}
 
+
+.chip{display:inline-block;font-size:11px;padding:2px 7px;border-radius:999px;border:1px solid #2a3351;margin-left:6px;vertical-align:middle} .chip-ok{border-color:#7fd957;color:#7fd957} .chip-desktop{border-color:#ff9494;color:#ff9494} .notice{margin:12px 0;padding:10px 14px;border:1px solid #2a3351;border-radius:12px;background:#11162a;color:#cfe0ff;font-size:13px;display:flex;flex-wrap:wrap;gap:10px;align-items:center} .notice button{background:#1c2340;color:#dbe4ff;border:1px solid #394260;border-radius:10px;padding:6px 12px;cursor:pointer} .notice button:hover{border-color:#7c5cff}
+
