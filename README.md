@@ -9,3 +9,6 @@ Deploy steps
 2) Connect the repo on Vercel as a static site (Framework: Other, Build: None, Output: root).
 3) Replace example.com in robots.txt and sitemap.xml with your domain.
 4) Add AdSense code to templates later (replace the .ad placeholders).
+
+Domain: https://browserbrawl.games
+
