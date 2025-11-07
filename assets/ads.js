@@ -4,7 +4,7 @@
   var DEFAULT_CLIENT = 'ca-pub-4776426875987574';
   if(!CLIENT){ CLIENT = DEFAULT_CLIENT; }
   var DEFAULT_SLOTS = { top:'1234567001', middle:'1234567002', bottom:'1234567003' };
-  var loaded=false; function load(cb){ if(loaded){ cb&&cb(); return; }
+  var loaded = !!(window.adsbygoogle && window.adsbygoogle.push);\n  function load(cb){ if(loaded){ cb&&cb(); return; }
     var s=document.createElement('script'); s.async=true;
     s.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+encodeURIComponent(CLIENT);
     s.crossOrigin='anonymous'; s.onload=function(){ loaded=true; cb&&cb(); };
@@ -28,4 +28,5 @@
   }
   document.addEventListener('DOMContentLoaded', observe);
 })();
+
 
