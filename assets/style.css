@@ -18,3 +18,8 @@ nav a:hover{border-color:var(--accent)}
 .footer{margin:24px 0;color:var(--muted);font-size:12px}
 .badge{display:inline-block;background:#1b2033;border:1px solid #2a3351;color:#b8c4dd;padding:2px 8px;border-radius:999px;font-size:12px;margin-right:6px}
 @media (max-width:640px){.grid{grid-template-columns:1fr}}
+
+/* Ads reserved space */
+.ad-slot,.ad{min-height:280px;margin:14px 0;padding:0;border:0}
+@media (max-width:640px){.ad-slot,.ad{min-height:250px}}
+
