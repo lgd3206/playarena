@@ -23,3 +23,7 @@ nav a:hover{border-color:var(--accent)}
 .ad-slot,.ad{min-height:280px;margin:14px 0;padding:0;border:0}
 @media (max-width:640px){.ad-slot,.ad{min-height:250px}}
 
+
+/* Home search and buttons */
+.search{margin:12px 0 6px} .search input{width:100%;padding:10px 12px;border:1px solid #2a3351;border-radius:10px;background:#0c1020;color:#dbe4ff} .search small.muted{display:block;color:#93a0b0;margin-top:6px} .btn{display:inline-block;padding:8px 12px;border:1px solid #2a3351;border-radius:10px;color:#cfe0ff;text-decoration:none;background:#141a2b} .btn:hover{border-color:#7c5cff}
+

@@ -20,5 +20,20 @@
     }catch(e){ el.style.display="none"; }
   }
   window.PLAYARENA={ addRecent:addRecent };
-  document.addEventListener("DOMContentLoaded",renderRecent);
+  document.addEventListener("DOMContentLoaded",function(){ renderRecent(); bindSearch(); });
+})();
+
+(function(){
+  function bindSearch(){
+    var box=document.getElementById("site-search"); if(!box) return;
+    var cards=[].slice.call(document.querySelectorAll(".grid .card"));
+    function apply(){
+      var q=(box.value||"").toLowerCase().trim();
+      cards.forEach(function(a){
+        var name=(a.getAttribute("data-name")||a.textContent||"").toLowerCase();
+        var ok=!q || name.indexOf(q)>-1; a.style.display= ok? "block":"none"; });
+    }
+    box.addEventListener("input",apply); apply();
+  }
+  window.bindSearch = bindSearch;
 })();
