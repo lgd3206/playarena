@@ -3,7 +3,13 @@
   var CLIENT = (window.ADSENSE_CLIENT || (META && META.content) || "").trim();
   var DEFAULT_CLIENT = "ca-pub-4776426875987574";
   if(!CLIENT){ CLIENT = DEFAULT_CLIENT; }
-  var DEFAULT_SLOTS = { top:"1234567001", middle:"1234567002", bottom:"1234567003" };
+  // TODO: 替换为AdSense后台获得的真实广告槽位ID
+  // 登录 https://adsense.google.com -> 广告 -> 按代码获利 -> 创建广告单元
+  var DEFAULT_SLOTS = {
+    top: "1234567001",     // 替换为真实的顶部广告槽位ID
+    middle: "1234567002",  // 替换为真实的中部广告槽位ID
+    bottom: "1234567003"   // 替换为真实的底部广告槽位ID
+  };
 
   var loaded = !!(window.adsbygoogle && window.adsbygoogle.push);
   function load(cb){

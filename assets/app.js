@@ -12,15 +12,35 @@
     }catch(e){}
   }
 
+  function getRecentTargets(){
+    var nodes=[].slice.call(document.querySelectorAll('[data-recently-played], #recently-played'));
+    var seen=[];
+    nodes.forEach(function(node){
+      if(seen.indexOf(node)===-1){ seen.push(node); }
+    });
+    return seen;
+  }
+
   function renderRecent(){
-    var el=document.getElementById("recently-played");
-    if(!el) return;
+    var targets=getRecentTargets();
+    if(!targets.length) return;
     try{
       var arr=JSON.parse(localStorage.getItem("recentlyPlayed")||"[]");
-      if(!arr.length){ el.style.display="none"; return; }
+      if(!arr.length){
+        targets.forEach(function(el){
+          el.style.display="none";
+          el.innerHTML="";
+        });
+        return;
+      }
       var html=arr.map(function(it){return '<a href="/game/'+it.slug+'/">'+it.name+'</a>';}).join(' ? ');
-      el.innerHTML=html;
-    }catch(e){ el.style.display="none"; }
+      targets.forEach(function(el){
+        el.style.display="";
+        el.innerHTML=html;
+      });
+    }catch(e){
+      targets.forEach(function(el){ el.style.display="none"; });
+    }
   }
 
   function ensureCardDataset(card){
@@ -92,14 +112,14 @@
     if(target && !document.querySelector('.hero .chip')){
       var chip=document.createElement('span');
       chip.className='chip '+(info.mobileFriendly===false?'chip-desktop':'chip-ok');
-      chip.textContent= info.mobileFriendly===false ? '????' : '????';
+      chip.textContent= info.mobileFriendly===false ? 'Desktop only' : 'Mobile OK';
       target.appendChild(document.createTextNode(' '));
       target.appendChild(chip);
     }
     if(info.mobileFriendly===false){
       var note=document.createElement('div');
       note.className='notice';
-      note.textContent='???????????????????????????????';
+      note.textContent='Heads up: this game needs a keyboard/mouse and may not run well on phones.';
       var hero=document.querySelector('.hero');
       hero && hero.appendChild(note);
     }
@@ -115,10 +135,10 @@
     var notice=document.createElement('div');
     notice.className='notice';
     var text=document.createElement('span');
-    text.textContent='?????????????????';
+    text.textContent='On mobile? Filter to touch-friendly picks.';
     var btn=document.createElement('button');
     btn.type='button';
-    btn.textContent='????';
+    btn.textContent='View all games';
     notice.appendChild(text);
     notice.appendChild(btn);
     hero && hero.appendChild(notice);
@@ -134,7 +154,7 @@
     }
     btn.addEventListener('click',function(){
       mobileOnly=!mobileOnly;
-      btn.textContent = mobileOnly ? '????' : '???????';
+      btn.textContent = mobileOnly ? 'View all games' : 'Only mobile-friendly';
       apply();
     });
     apply();
