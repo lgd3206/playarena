@@ -1,0 +1,719 @@
+{
+  "generatedAt": "2025-11-19T10:25:00Z",
+  "games": [
+    {
+      "slug": "smash-karts",
+      "name": "Smash Karts",
+      "summary": "Smash Karts is a 3D multiplayer IO kart battle game. Drive your go-kart, pick up weapons, and blow up other karts to win! Keep playing to level up and unlock new characters and prizes. How to Play Smash Karts Battle and earn XP Face off with other players...",
+      "tagline": "Smash Karts is a 3D multiplayer IO kart battle game.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "mobile",
+        "3d",
+        "top-down",
+        "battle",
+        "arena",
+        "destroy",
+        "car",
+        "physics",
+        "controller",
+        "climb-the-ranks"
+      ]
+    },
+    {
+      "slug": "fortzone-battle-royale-xkd",
+      "name": "Fortzone Battle Royale",
+      "summary": "Fortzone Battle Royale is a high-stakes survival shooter where you face off against rivals in a massive, scenic battleground. Explore forests, cross rivers, and scavenge for resources as the action ramps up quickly. Outsmart enemies, collect powerful...",
+      "tagline": "Fortzone Battle Royale is a high-stakes survival shooter where you face off against rivals in a massive, scenic battlegr",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "action",
+      "tags": [
+        "mobile",
+        "3d",
+        "battle",
+        "arena",
+        "destroy",
+        "third-person-shooter",
+        "with-friends",
+        "battle-royale",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "diepio",
+      "name": "Diep.io",
+      "summary": "Diep.io is a survival .io game where you control a circle armed with a cannon. The aim is simple: move around the map and destroy the other players whilst improving and upgrading your own circle. How to Play Diep.io Shoot to level up Diep is a simple .io...",
+      "tagline": "Diep.io is a survival .io game where you control a circle armed with a cannon.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "avoid",
+        "battle",
+        "controller",
+        "2d",
+        "survive",
+        "battle-royale",
+        "tank",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "gridpunk---3v3-battle-royale",
+      "name": "Gridpunk - 3v3 Battle Royale",
+      "summary": "Gridpunk - Battle Royale 3v3 PvP is an IO battle game where lightning-fast reflexes and precision will determine how far you make it through to the end of this real-time shooter action. This high-intensity game requires you to stay sharp, aim true, and...",
+      "tagline": "Gridpunk - Battle Royale 3v3 PvP is an IO battle game where lightning-fast reflexes and precision will determine how far",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "3d",
+        "battle",
+        "arena",
+        "play-and-upgrade",
+        "hero",
+        "gun",
+        "party",
+        "premium",
+        "battle-royale",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "rocket-bot-royale",
+      "name": "Rocket Bot Royale",
+      "summary": "Rocket Bot Royale is a gravity-defying multiplayer tank game set in a battle royale arena. Blast other players, collect coins, avoid the rising water levels, and survive for longer than the rest. How to Play Rocket Bot Royale Fight epic tank battles Use...",
+      "tagline": "Rocket Bot Royale is a gravity-defying multiplayer tank game set in a battle royale arena.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "battle",
+        "destroy",
+        "2d",
+        "survive",
+        "premium",
+        "battle-royale",
+        "tank",
+        "multiplayer",
+        "collect"
+      ]
+    },
+    {
+      "slug": "mad-guns---battle-royale-ndd",
+      "name": "Mad GunS - Battle Royale",
+      "summary": "Mad GunS - Battle Royale is a wacky royal battle where chaos rules and anything can be a weapon. Arm yourself with bananas, handbags, or even hamster guns as you take on zombies, giant turkeys, and wild octopuses in outrageous online modes. Explore unique...",
+      "tagline": "Mad GunS - Battle Royale is a wacky royal battle where chaos rules and anything can be a weapon.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "shooting",
+      "tags": [
+        "pixel",
+        "3d",
+        "battle",
+        "with-friends",
+        "gun",
+        "battle-royale",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "voxiom-io",
+      "name": "Voxiom.io",
+      "summary": "Voxiom.io is a 3D real-time multiplayer first-person voxel shooter featuring destructible maps. The game is inspired by popular titles, such as Minecraft, Fortnite, Counter-Strike, and Call of Duty. Currently, the game features 4 game modes: capture the...",
+      "tagline": "Voxiom.io is a 3D real-time multiplayer first-person voxel shooter featuring destructible maps.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "minecraft",
+        "3d",
+        "mining",
+        "gun",
+        "battle-royale",
+        "multiplayer",
+        "crafting",
+        "block",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "warcall-io",
+      "name": "WarCall.io",
+      "summary": "WarCall.io is an IO fantasy battle royale game where champions battle in a large multiplayer arena using various melee weapons. How to Play WarCall.io Fight in a fiercely competitive arena Fight against other players for gold and upgrades as the map...",
+      "tagline": "WarCall.io is an IO fantasy battle royale game where champions battle in a large multiplayer arena using various melee w",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "battle",
+        "battle-royale",
+        "mouse",
+        "collect"
+      ]
+    },
+    {
+      "slug": "sandstrike-io",
+      "name": "SandStrike.io",
+      "summary": "SandStrike is an FPS multiplayer shooting game that thrusts you into heart-pounding desert adventures. Engage in high-speed battles, outsmart rivals, and feel an adrenaline rush. With diverse game modes, customize your weapon to dominate. Utilize powerful...",
+      "tagline": "SandStrike is an FPS multiplayer shooting game that thrusts you into heart-pounding desert adventures.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "3d",
+        "battle",
+        "zombie",
+        "war",
+        "party",
+        "battle-royale",
+        "multiplayer",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "buildroyale-io",
+      "name": "Build Royale",
+      "summary": "Build Royale is a top-down battle royale where you chop down trees, craft instant cover, loot random weapons, and survive the shrinking storm solo, in duos, or in squads.",
+      "tagline": "Harvest materials, build, and fight through a shrinking 2D arena.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "top-down",
+        "battle",
+        "build",
+        "survive",
+        "battle-royale",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "mini-royale-nations",
+      "name": "Mini Royale: Nations",
+      "summary": "Mini Royale: Nations is a fast-paced multiplayer FPS battle royale featuring short tactical matches, ranked seasons, weapon cosmetics, and clan objectives.",
+      "tagline": "Drop into a quick FPS battle royale with ranked ladders and weapon skins.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "3d",
+        "battle",
+        "gun",
+        "battle-royale",
+        "multiplayer",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "holey-io-battle-royale",
+      "name": "Holey.io Battle Royale",
+      "summary": "Holey.io is a battle royale game where you consume various items and opponents with smaller holes. You will grow bigger as you swallow! The map will continuously shrink, forcing players into a narrower environment until there is only one person left...",
+      "tagline": "Holey.io is a battle royale game where you consume various items and opponents with smaller holes.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "grow",
+        "top-down",
+        "arena",
+        "battle-royale",
+        "mouse"
+      ]
+    },
+    {
+      "slug": "thelast-io",
+      "name": "TheLast.io",
+      "summary": "TheLast.io is an epic fantasy 2D battle royale game. In this title, you must fight using a variety of magic and melee skills. You must work hard and do what you can to outlast your opponents and be the last character standing! At the start of the game, you...",
+      "tagline": "TheLast.io is an epic fantasy 2D battle royale game.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "battle",
+        "magic",
+        "2d",
+        "battle-royale",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "zombsroyaleio",
+      "name": "Zombs Royale",
+      "summary": "Zombs Royale (ZombsRoyale.io) is a 100-player top-down battle royale where you parachute into a shrinking zone, loot mythic weapons, dodge zombies, and fight solo, duo, or squad until one team survives.",
+      "tagline": "Drop in, loot mythics, and survive the zombie-filled gas.",
+      "mobileFriendly": false,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "top-down",
+        "battle",
+        "zombie",
+        "gun",
+        "battle-royale",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "fall-beans",
+      "name": "Fall Beans",
+      "summary": "Fall Beans (Ultimate Knockdown Guys) is a competitive multiplayer racing game with moving obstacles. Speed your way to the finish line while racing frantically against a crowd of opponents in battle-royale-style gameplay. Time your movements around...",
+      "tagline": "Fall Beans (Ultimate Knockdown Guys) is a competitive multiplayer racing game with moving obstacles.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "casual",
+      "tags": [
+        "3d",
+        "arena",
+        "racing",
+        "platform",
+        "lol",
+        "obstacle",
+        "battle-royale",
+        "multiplayer",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "gokarts-io",
+      "name": "GoKarts.io",
+      "summary": "GoKarts.io is a wild 3D multiplayer kart combat game where speed and strategy collide in explosive arenas. You'll race, battle, and outmaneuver rivals using an arsenal of crazy weapons and power-ups. Level up to unlock bold characters, flashy karts, and...",
+      "tagline": "GoKarts.io is a wild 3D multiplayer kart combat game where speed and strategy collide in explosive arenas.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "driving",
+      "tags": [
+        "mobile",
+        "3d",
+        "battle",
+        "arena",
+        "car",
+        "with-friends",
+        "drifting",
+        "bike",
+        "crash",
+        "party"
+      ]
+    },
+    {
+      "slug": "2048-multiplayer-qbs",
+      "name": "2048 Multiplayer",
+      "summary": "2048 Multiplayer is the multiplayer version of the famous 2048 puzzle game! Game Modes and Features Battle Royale Up to 10 players play online multiplayer Battle Royale 2048. Every 30 seconds the player with the lowest score is out. Be the last man...",
+      "tagline": "2048 Multiplayer is the multiplayer version of the famous 2048 puzzle game!",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "puzzle",
+      "tags": [
+        "2048",
+        "skill",
+        "battle-royale",
+        "multiplayer",
+        "speed"
+      ]
+    },
+    {
+      "slug": "evowarsio",
+      "name": "EvoWars.io",
+      "summary": "EvoWars.io is an IO battle game set in a top-down online battle arena. Collect orbs and battle other players to evolve your warrior. Each evolution improves your weapon range but slows your movement. How many will you slay before you fall? How to Play...",
+      "tagline": "EvoWars.io is an IO battle game set in a top-down online battle arena.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "grow",
+        "mobile",
+        "top-down",
+        "battle",
+        "climb-the-ranks",
+        "party",
+        "mouse",
+        "multiplayer"
+      ]
+    },
+    {
+      "slug": "shellshockersio",
+      "name": "Shell Shockers",
+      "summary": "Shell Shockers (Shellshock.io) is a multiplayer .io FPS game featuring eggs armed with guns. You control one of these weapon-wielding eggs in one of four online game modes where the aim is to shatter your opponents with bullets and bombs. It&#39;s the...",
+      "tagline": "Shell Shockers (Shellshock.io) is a multiplayer .io FPS game featuring eggs armed with guns.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "3d",
+        "controller",
+        "with-friends",
+        "gun",
+        "party",
+        "multiplayer",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "paper-io-2",
+      "name": "Paper.io 2",
+      "summary": "Paper.io 2 is an .io game where you have to capture as much territory as possible by painting it. Paint the map in your own color to take over the Paper.io world! Look out for other players vying to claim your space. How to Play Use your mouse to move...",
+      "tagline": "Paper.io 2 is an .io game where you have to capture as much territory as possible by painting it.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "avoid",
+        "arena",
+        "snake",
+        "color"
+      ]
+    },
+    {
+      "slug": "kour-io",
+      "name": "Kour.io",
+      "summary": "Kour.io is a multiplayer IO FPS game that plunges you into intense battles across various maps with many guns and modes to play! It&#39;s one of the most accessible first-person shooters, available on both web browsers and mobile. This game offers numerous...",
+      "tagline": "Kour.io is a multiplayer IO FPS game that plunges you into intense battles across various maps with many guns and modes",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "sniper",
+        "mobile",
+        "3d",
+        "battle",
+        "arena",
+        "controller",
+        "gun",
+        "party",
+        "multiplayer",
+        "first-person-shooter"
+      ]
+    },
+    {
+      "slug": "starblastio",
+      "name": "StarBlast",
+      "summary": "StarBlast is a fun multiplayer arcade shooter set in space. Mine asteroids and fight other players in your own fully upgradable spaceship. Work together with your teammates to ensure victory. How to Play StarBlast In the game, you shoot asteroids and...",
+      "tagline": "StarBlast is a fun multiplayer arcade shooter set in space.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "io",
+      "tags": [
+        "battle",
+        "arena",
+        "space",
+        "multiplayer",
+        "airplane"
+      ]
+    },
+    {
+      "slug": "snake-io",
+      "name": "Snake.io",
+      "summary": "Snake.io is an online io game where you control a snake, striving to survive in a battlefield of other snakes. Consume colorful food to grow larger and defeat rivals to become a formidable force Our Review \"Snake.io is a frenzied battle of the snakes full...",
+      "tagline": "Snake.io is an online io game where you control a snake, striving to survive in a battlefield of other snakes.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "io",
+      "tags": [
+        "grow",
+        "top-down",
+        "arena",
+        "snake",
+        "controller",
+        "survive",
+        "mouse",
+        "multiplayer",
+        "collect"
+      ]
+    },
+    {
+      "slug": "ragdoll-archers",
+      "name": "Ragdoll Archers",
+      "summary": "Ragdoll Archers is an archery game featuring bow and arrow-equipped stickmen with ragdoll physics. Fire arrows at a range of opponents while earning points to upgrade your abilities and ammunition. Play two-player PvP against your friend or team up with...",
+      "tagline": "Ragdoll Archers is an archery game featuring bow and arrow-equipped stickmen with ragdoll physics.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "casual",
+      "tags": [
+        "2-player",
+        "arena",
+        "physics",
+        "co-op",
+        "stick",
+        "archery",
+        "ragdoll",
+        "arcade"
+      ]
+    },
+    {
+      "slug": "basket-random",
+      "name": "Basket Random",
+      "summary": "Basket Random is a chaotic 2-player arcade sports game with unpredictable physics. Bounce and battle for the ball across wild courts, with each dunk launching you to the next level! How to Play Basket Random Basket Random shares similar features with other...",
+      "tagline": "Basket Random is a chaotic 2-player arcade sports game with unpredictable physics.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "2-player",
+        "physics",
+        "basketball",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "punchers",
+      "name": "Punchers",
+      "summary": "Punchers is a 3D boxing sports action game with ragdoll physics. Use move keys to dodge enemy punches and hit back with random punch combinations. You can play against another player or AI. How to Play Punchers Punchers throws players into the boxing ring...",
+      "tagline": "Punchers is a 3D boxing sports action game with ragdoll physics.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "sports",
+      "tags": [
+        "mobile",
+        "2-player",
+        "3d",
+        "1-player",
+        "physics",
+        "boxing",
+        "premium",
+        "ragdoll",
+        "fighting"
+      ]
+    },
+    {
+      "slug": "epic-sword-battle-fight-in-arena",
+      "name": "Epic Sword Battle! Fight in Arena",
+      "summary": "Epic Sword Battle! Fight in Arena is a 3D action sword-fighting game where you&#39;re going to clash in chaotic arenas filled with action and ragdoll physics. Swing your blade and become the ultimate sword master. Use your reaction and accuracy to win...",
+      "tagline": "Epic Sword Battle!",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "action",
+      "tags": [
+        "mobile",
+        "3d",
+        "arena",
+        "skill",
+        "ragdoll",
+        "sword"
+      ]
+    },
+    {
+      "slug": "soccer-random",
+      "name": "Soccer Random",
+      "summary": "Soccer Random is a two-player pixel-art soccer game with limited controls but unlimited randomness. Players hop and kick on the pitch with just one click, trying to score a goal with limited movement. You can choose a one-player game against the computer...",
+      "tagline": "Soccer Random is a two-player pixel-art soccer game with limited controls but unlimited randomness.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "2-player",
+        "soccer",
+        "physics",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "volley-random",
+      "name": "Volley Random",
+      "summary": "Volley Random is a fun two-player sports volleyball game where the simple controls meet chaotic and wacky physics. This one-click button game lets you jump, spike, and scramble your way to victory, all with a few clicks. Keep alert because each move is...",
+      "tagline": "Volley Random is a fun two-player sports volleyball game where the simple controls meet chaotic and wacky physics.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "one-button",
+        "2-player",
+        "physics",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "no-pain-no-gain---ragdoll-sandbox",
+      "name": "No Pain No Gain - Ragdoll Sandbox",
+      "summary": "No Pain No Gain - Ragdoll Sandbox is a chaotic and hilarious game where pain equals profit. Create wild obstacle courses filled with saw blades, springs, bombs, and more. The more your ragdoll crashes, tumbles, and smashes into these traps, the more coins...",
+      "tagline": "No Pain No Gain - Ragdoll Sandbox is a chaotic and hilarious game where pain equals profit.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "casual",
+      "tags": [
+        "sandbox",
+        "mobile",
+        "physics",
+        "incremental",
+        "mouse",
+        "stick",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "uncle-hit-punch-the-dummy",
+      "name": "Uncle Hit: Punch the Dummy",
+      "summary": "Uncle Hit: Punch the Dummy is a fast-paced action game where you take out your frustration on a relentless, annoying dummy. With quick reflexes and nonstop punches, you'll unleash a flurry of blows in simple, satisfying bursts. Stay sharp, keep hitting,...",
+      "tagline": "Uncle Hit: Punch the Dummy is a fast-paced action game where you take out your frustration on a relentless, annoying dum",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "casual",
+      "tags": [
+        "mobile",
+        "meme",
+        "3d",
+        "physics",
+        "mouse",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "striker-dummies",
+      "name": "Striker Dummies",
+      "summary": "Striker Dummies is a visually interesting action fighting game in which you control a wooden dummy ready to fight. The aim is simple - you must try and destroy the other wooden dummy by hitting it with your giant hammer! The winner of this intense duel is...",
+      "tagline": "Striker Dummies is a visually interesting action fighting game in which you control a wooden dummy ready to fight.",
+      "mobileFriendly": false,
+      "androidFriendly": false,
+      "iosFriendly": false,
+      "category": "action",
+      "tags": [
+        "2-player",
+        "3d",
+        "physics",
+        "premium",
+        "ragdoll",
+        "fighting"
+      ]
+    },
+    {
+      "slug": "weapons-ragdoll-arena",
+      "name": "Weapons Ragdoll Arena",
+      "summary": "Weapons Ragdoll Arena is an action ragdoll game that throws you into an arcade battle where weapons fly in over-the-top ragdoll showdowns and every item packs unpredictable impact. Outsmart your rivals and survive the chaos as you climb your way to become...",
+      "tagline": "Weapons Ragdoll Arena is an action ragdoll game that throws you into an arcade battle where weapons fly in over-the-top",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "action",
+      "tags": [
+        "mobile",
+        "battle",
+        "mouse",
+        "stick",
+        "ragdoll",
+        "arcade",
+        "fighting"
+      ]
+    },
+    {
+      "slug": "boxing-random",
+      "name": "Boxing Random",
+      "summary": "Boxing Random is a fun 2-player sports action ragdoll physics boxing game that throws unpredictable twists into every round! Each match comes with its own unique challenges, from shifting arenas to unexpected power-ups, keeping you on your toes. The goal...",
+      "tagline": "Boxing Random is a fun 2-player sports action ragdoll physics boxing game that throws unpredictable twists into every ro",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "sports",
+      "tags": [
+        "2-player",
+        "physics",
+        "boxing",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "drunken-duel-2",
+      "name": "Drunken Duel 2",
+      "summary": "Drunken Duel 2 is the second episode of the ragdoll arena shooter game. This episode comes with a new arena, weapons, and conditions! There is a fierce struggle on the roof! Choose your orange or blue drunk side and start the fight! Sometimes the...",
+      "tagline": "Drunken Duel 2 is the second episode of the ragdoll arena shooter game.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": true,
+      "category": "shooting",
+      "tags": [
+        "2-player",
+        "battle",
+        "physics",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "ragdoll-soccer-2-players",
+      "name": "Ragdoll Soccer 2 Players",
+      "summary": "Ragdoll Soccer: 2 Players is a sports soccer game that delivers the ultimate blend of soccer and chaos, where wobbly ragdoll physics takes over the field for hilarious and unpredictable gameplay! Step into the shoes (or, more accurately, the floppy limbs)...",
+      "tagline": "Ragdoll Soccer: 2 Players is a sports soccer game that delivers the ultimate blend of soccer and chaos, where wobbly rag",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "sports",
+      "tags": [
+        "mobile",
+        "2-player",
+        "soccer",
+        "controller",
+        "2d",
+        "stick",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "ragdoll-break",
+      "name": "Playground Man! Ragdoll Show!",
+      "summary": "Playground Man! Ragdoll Show! is a casual action 3D game with ragdoll physics where you enter a world of destruction. Get ready to tear apart a wooden stickman! Immerse yourself in a physics-based playground, smash obstacles, and relax while solving...",
+      "tagline": "Playground Man!",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "casual",
+      "tags": [
+        "mobile",
+        "3d",
+        "destroy",
+        "physics",
+        "mouse",
+        "ragdoll"
+      ]
+    },
+    {
+      "slug": "last-play-ragdoll-sandbox-kqb",
+      "name": "Last Play: Ragdoll Sandbox",
+      "summary": "Last Play: Ragdoll Sandbox is an action sandbox universe where your creativity takes center stage. Build stunning structures, pilot powerful mechs, and populate your world with lively ragdolls. Enjoy thrilling destruction, uncover quirky melon-themed...",
+      "tagline": "Last Play: Ragdoll Sandbox is an action sandbox universe where your creativity takes center stage.",
+      "mobileFriendly": true,
+      "androidFriendly": true,
+      "iosFriendly": false,
+      "category": "action",
+      "tags": [
+        "sandbox",
+        "mobile",
+        "battle",
+        "arena",
+        "physics",
+        "ragdoll",
+        "robot"
+      ]
+    }
+  ]
+}

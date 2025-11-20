@@ -1,0 +1,22 @@
+# Robots.txt for BrowserBrawl.games
+User-agent: *
+Allow: /
+
+# 优先抓取重要页面
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# 阻止不必要的爬虫消耗带宽
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+Crawl-delay: 10
+
+# Sitemap位置
+Sitemap: https://www.browserbrawl.games/sitemap.xml
+
+# 说明：本网站是游戏聚合平台，所有游戏通过iframe嵌入
+
+
+

@@ -1,0 +1,32 @@
+:root{--bg:#0c0d12;--fg:#e9ecf1;--muted:#93a0b0;--card:#141726;--accent:#7c5cff}
+*{box-sizing:border-box}html,body{margin:0;padding:0;background:var(--bg);color:var(--fg);font:14px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+.site{max-width:1080px;margin:0 auto;padding:16px}
+nav{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:6px 0 16px}
+nav a{color:var(--fg);text-decoration:none;padding:6px 10px;border:1px solid #29324a;border-radius:8px}
+nav a:hover{border-color:var(--accent)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid #1f263a;border-radius:12px;padding:12px}
+.card h3{margin:6px 0 8px;font-size:16px}
+.card p{margin:0;color:var(--muted)}
+.hero h1{margin:8px 0 8px}
+.hero p{margin:0 0 16px;color:var(--muted)}
+.player{position:relative;padding-top:56.25%;background:#111;border-radius:12px;overflow:hidden}
+.player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.section{margin:20px 0}
+.list a{color:#c9d1e3}
+.ad{border:1px dashed #394260;color:#9aa6bd;padding:10px;border-radius:8px;text-align:center;margin:14px 0}
+.footer{margin:24px 0;color:var(--muted);font-size:12px}
+.badge{display:inline-block;background:#1b2033;border:1px solid #2a3351;color:#b8c4dd;padding:2px 8px;border-radius:999px;font-size:12px;margin-right:6px}
+@media (max-width:640px){.grid{grid-template-columns:1fr}}
+
+/* Ads reserved space */
+.ad-slot,.ad{min-height:280px;margin:14px 0;padding:0;border:0}
+@media (max-width:640px){.ad-slot,.ad{min-height:250px}}
+
+
+/* Home search and buttons */
+.search{margin:12px 0 6px} .search input{width:100%;padding:10px 12px;border:1px solid #2a3351;border-radius:10px;background:#0c1020;color:#dbe4ff} .search small.muted{display:block;color:#93a0b0;margin-top:6px} .btn{display:inline-block;padding:8px 12px;border:1px solid #2a3351;border-radius:10px;color:#cfe0ff;text-decoration:none;background:#141a2b} .btn:hover{border-color:#7c5cff}
+
+
+.chip{display:inline-block;font-size:11px;padding:2px 7px;border-radius:999px;border:1px solid #2a3351;margin-left:6px;vertical-align:middle} .chip-ok{border-color:#7fd957;color:#7fd957} .chip-desktop{border-color:#ff9494;color:#ff9494} .notice{margin:12px 0;padding:10px 14px;border:1px solid #2a3351;border-radius:12px;background:#11162a;color:#cfe0ff;font-size:13px;display:flex;flex-wrap:wrap;gap:10px;align-items:center} .notice button{background:#1c2340;color:#dbe4ff;border:1px solid #394260;border-radius:10px;padding:6px 12px;cursor:pointer} .notice button:hover{border-color:#7c5cff}
+
